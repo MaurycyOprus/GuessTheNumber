@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="button">Guess!</string>
+    <string name="number_hint">"Choose number from 0 to 20"</string>
+    <string name="gtn">GTN</string>
+    <string name="points">points: </string>
+    <string name="guesses">guesses: </string>
+    <string name="restart">restart game</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="registration">registration</string>
+    <string name="register">register</string>
+    <string name="leaderboard">leaderboard</string>
+    <string name="go_back">back</string>
+    <string name="log_out">log out</string>
+    <integer name="zero">0</integer>
+</resources>
